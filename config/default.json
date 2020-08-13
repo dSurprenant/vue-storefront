@@ -294,7 +294,7 @@
         "default_value",
         "entity_type_id",
         "frontend_input",
-        "frontend_label",
+        "frontend_labels",
         "id",
         "is_user_defined",
         "is_visible_on_front",
